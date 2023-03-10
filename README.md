@@ -68,4 +68,5 @@ public:
 ```
 
 ##Console Output
-![output](https://drive.google.com/file/d/1Oyj8ssD6Y71tB7aMCj2zAYEw1Wk8kcSH/view?usp=sharing)
+
+![output](https://drive.google.com/uc?export=view&id=1Oyj8ssD6Y71tB7aMCj2zAYEw1Wk8kcSH)
